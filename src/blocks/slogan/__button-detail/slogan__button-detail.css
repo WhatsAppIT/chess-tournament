@@ -1,0 +1,20 @@
+.slogan__button-detail {
+  margin-top: 32px;
+  padding: 18px 20px 18px 20px;
+  font-family: 'Golos_Text', Arial, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20.8px;
+  color: #1f1f1f;
+  background-color: #ffffff;
+  border-radius: 66px;
+  border: none;
+  cursor: pointer;
+  width: 335px;
+  transition: opacity 0.4s;
+}
+.slogan__button-detail:hover {
+  opacity: 0.9;
+  background-color: #1f1f1f;
+  color: #ffffff;
+}

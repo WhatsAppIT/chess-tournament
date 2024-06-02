@@ -1,0 +1,13 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/Golos_Text/static/Golos_Text_Merriweather.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__logo/_hourse/header__logo_hourse.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/slogan/slogan.css);
+@import url(../blocks/slogan/__title/slogan__title.css);
+@import url(../blocks/slogan/__subtitle/slogan__subtitle.css);
+@import url(../blocks/slogan/__button-detail/slogan__button-detail.css);
+@import url(../blocks/slogan/__button-support/slogan__button-support.css);
+@import url(../blocks/slogan/__container/slogan__container.css);

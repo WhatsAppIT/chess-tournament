@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Golos_Text';
+  font-display: swap;
+  src: url('GolosText-Bold.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-display: swap;
+  src: url('Merriweather-Regular.woff2') format('woff2');
+}
